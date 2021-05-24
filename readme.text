@@ -1,0 +1,4 @@
+pip install django  #Permite Trabajar con el FrameWork django
+pip install transbank-sdk   #Permite utilizar WebPay
+pip install pillow   #Permite insertar imagenes en la bd
+pip install django-admin-interface  #Permite modificar visualmente el admin nativo de django
